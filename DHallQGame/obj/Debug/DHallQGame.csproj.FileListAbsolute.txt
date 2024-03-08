@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\DHallQGame\DHallQGame\bin\Debug\DHallQGame.exe.config
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\DHallQGame\DHallQGame\bin\Debug\DHallQGame.exe
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\DHallQGame\DHallQGame\bin\Debug\DHallQGame.pdb
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\DHallQGame\DHallQGame\obj\Debug\DHallQGame.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\DHallQGame\DHallQGame\obj\Debug\DHallQGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\DHallQGame\DHallQGame\obj\Debug\DHallQGame.DesignForm.resources
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\DHallQGame\DHallQGame\obj\Debug\DHallQGame.MenuForm.resources
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\DHallQGame\DHallQGame\obj\Debug\DHallQGame.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\DHallQGame\DHallQGame\obj\Debug\DHallQGame.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\DHallQGame\DHallQGame\obj\Debug\DHallQGame.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\DHallQGame\DHallQGame\obj\Debug\DHallQGame.exe
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\DHallQGame\DHallQGame\obj\Debug\DHallQGame.pdb
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\DHallQGame\DHallQGame\obj\Debug\DHallQGame.PlayForm.resources
